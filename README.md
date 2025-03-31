@@ -3,41 +3,33 @@
 
 
                                   
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurx75&label=Profile%20views&color=0e75b6&style=flat" alt="mayurx75" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amogh-003&label=Profile%20views&color=0e75b6&style=flat" alt="Amogh Jain" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🚀 AI Engineer | React Enthusiast
+- 🚀 Data Science Student 
 - 💡 Passionate about building intelligent solutions and seamless user experiences.
-- 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
+- 📊 Specializing in AI/ML models, data-driven applications.
 - 🌟 Open source advocate and lifelong learner.
-- 📫 Let's collaborate: [mayurff75@gmail.com]
+- 📫 Let's collaborate: [amoghjain05@gmail.com]
 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   
-  <a href="https://www.instagram.com/.m_a_y_u_r." target="_blank">
+  <a href="https://www.instagram.com/_amogh_jain" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
 </a>
 
-  <a href="https://www.twitch.tv/your-username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch Logo" />
-</a>
-
-  <a href="https://discord.com/users/Mayurx75" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />
-</a>
-
-  <a href="mailto:mayurff75@gmail.com" target="_blank">
+  <a href="mailto:amoghjain05@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
 </a>
 
- <a href="https://www.linkedin.com/in/mayur-r-021b35329/" target="_blank">
+ <a href="https://www.linkedin.com/in/caamoghjain" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
 </a>
 
